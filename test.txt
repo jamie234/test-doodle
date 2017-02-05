@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fdsfsd 1
+=======
+fdsfsd 2
+>>>>>>> 69eee15d67e66d6be85eb2ac0b23797945c9aa8b
